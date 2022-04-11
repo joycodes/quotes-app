@@ -17,7 +17,7 @@ import { TimeQuotePipe } from './time-quote.pipe';
     QuotesDetailsComponent,
     QuotesFormComponent,
     HighlightQuoteDirective,
-    TimeQuotePipe
+    TimeQuotePipe,
   ],
   imports: [
     BrowserModule,
