@@ -21,7 +21,7 @@ import { TimeQuotePipe } from './time-quote.pipe';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
     FormsModule
   ],
   providers: [],
