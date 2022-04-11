@@ -43,9 +43,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 * markdown
 * [Bootstrap](https://github.com/topics/bootstrap)
 
-## Known Bugs
-* highlight directive property does not work properly
-
 ## Contact Information 
 
 If you have any question or contributions, please contact me on LinkedIn at [https://www.linkedin.com/in/jnguttu/]
