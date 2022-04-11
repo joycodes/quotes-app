@@ -11,12 +11,12 @@ export class QuotesComponent implements OnInit {
 
    // Quotes Array
    quotes:Quotes[]=[
-    new Quotes('Sometimes life is going to hit you in the head. Dont loose faith.','Steve Jobs','Joyce Nguttu', new Date(2022,1,23),2,1),
-    new Quotes('The greatest glory in living lies not in never falling, but in rising every time we fall.','Nelson Mandela','Emma Amina',new Date(2022,1,30),4,3),
-    new Quotes('Competitions are for horses not artists','Anonymous', 'Celestine Waigwa',new Date(2022,2,3),3,4),
-    new Quotes('If life were predictable it would cease to be life, and be without flavor.','Eleanor Roosevelt', 'Tyler Karanja',new Date(2022,3,10),1,0),
-    new Quotes('The way to get started is to quit talking and begin doing','Walt Disney','Rose Onyango',new Date(2022,3,19),9,2),
-    new Quotes('Life is what happens when you are making other plans','John Lennon', 'Susan Maina',new Date(2022,4,6),1,0),
+    new Quotes('When you have a dream, you’ve got to grab it and never let go.','Carol Burnett','Joyce Nguttu', new Date(2022,1,23),2,1),
+    new Quotes('Nothing is impossible. The word itself says ‘I’m possible!','Audrey Hepburn','Emmah Odoyo',new Date(2022,1,30),4,3),
+    new Quotes('There is nothing impossible to they who will try.','Alexander the Great', 'Celestine Waigwa',new Date(2022,2,3),3,4),
+    new Quotes('The bad news is time flies. The good news is you’re the pilot.','Michael Altshuler', 'Tyler Karanja',new Date(2022,3,10),1,0),
+    new Quotes('Life has got all those twists and turns. You’ve got to hold on tight and off you go.','Nicole Kidman','Rose Onyango',new Date(2022,3,19),9,2),
+    new Quotes('Keep your face always toward the sunshine, and shadows will fall behind you.','Walt Whitman', 'Susan Maina',new Date(2022,4,6),1,0),
 ]
 
 //function for ading a new quote
